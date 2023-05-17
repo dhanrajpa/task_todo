@@ -1,0 +1,30 @@
+#user-div {
+    background-image: url("../images/guitar-g8eefa99b0_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#user-card {
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 1rem;
+    height: 30rem;
+}
+
+#ASign-Link {
+    line-height: 1.7rem;
+    display: flex;
+    justify-content: center;
+}
+
+#aRadio-label {
+    float: left;
+    text-align: center;
+}
+
+/*# sourceMappingURL=ArtistReg.css.map */

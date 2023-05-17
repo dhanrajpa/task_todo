@@ -1,0 +1,19 @@
+#Login-div {
+  background-image: url("../images/guitar-g8eefa99b0_1920.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40rem;
+}
+
+#Login-card {
+  width: 80%;
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 0.8rem;
+  height: 27rem;
+  margin-left: 2rem;
+}
+
+#Forget-Link {
+  line-height: 1.6rem;
+}

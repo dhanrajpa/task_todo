@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Molecule Man",
+      "age": 29,
+      "email": "molecule@gmail.com",
+      "password": "abcd"
+    },
+    {
+      "id": 2,
+      "name": "Madame Uppercut",
+      "email": "madame@gmail.com",
+      "age": 39,
+      "password": "abcd"
+    },
+    {
+      "id": 3,
+      "name": "abcd Uppercut",
+      "email": "abcd@gmail.com",
+      "age": 39,
+      "password": "abcd"
+    },
+    {
+      "name": "aniket madave",
+      "email": "aniket@gmail.com",
+      "password": "aniket123",
+      "age": "24",
+      "id": 4
+    }
+  ],
+  "toDo": [
+    {
+      "task": "aa",
+      "status": "completed",
+      "id": 20
+    },
+    {
+      "task": "aaa",
+      "status": "pending",
+      "id": 21
+    },
+    {
+      "task": "aa",
+      "status": "pending",
+      "id": 22
+    },
+    {
+      "task": "ggg",
+      "status": "pending",
+      "id": 23
+    }
+  ]
+}
